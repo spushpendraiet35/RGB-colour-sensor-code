@@ -1,5 +1,5 @@
 /*
- * Color_Sensor.c
+ * color_detection.c
  *
  * Created: 01-12-2018 14:45:11
  *  Author: PUSHPENDRA SINGH
